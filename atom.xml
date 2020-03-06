@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://beatatata.github.io</id>
+    <id>https://beatatata.github.io/</id>
     <title>Beata</title>
-    <updated>2020-03-06T12:34:04.608Z</updated>
+    <updated>2020-03-06T12:35:14.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://beatatata.github.io"/>
-    <link rel="self" href="https://https://beatatata.github.io/atom.xml"/>
+    <link rel="alternate" href="https://beatatata.github.io/"/>
+    <link rel="self" href="https://beatatata.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://beatatata.github.io/images/avatar.png</logo>
-    <icon>https://https://beatatata.github.io/favicon.ico</icon>
+    <logo>https://beatatata.github.io/images/avatar.png</logo>
+    <icon>https://beatatata.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Beata</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://beatatata.github.io/post/hello-gridea/</id>
-        <link href="https://https://beatatata.github.io/post/hello-gridea/">
+        <id>https://beatatata.github.io/post/hello-gridea/</id>
+        <link href="https://beatatata.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
